@@ -1,0 +1,19 @@
+query GetLandingPage($pageSlug: String!) {
+  landingPageV1(filter: { pageSlug: { eq: $pageSlug } }) {
+    _seoMetaTags {
+      content
+      tag
+      attributes
+    }
+    title
+    pageContent
+    id
+    canonicalPath
+  }
+}
+
+query GetLandingPages {
+  allLandingPageV1s {
+    pageSlug
+  }
+}

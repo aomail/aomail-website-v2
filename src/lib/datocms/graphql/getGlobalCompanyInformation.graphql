@@ -1,0 +1,12 @@
+query getGlobalCompanyInformation {
+  companyInformationGlobal {
+    mainTelephoneNumber
+    mainTelephoneNumberInternationalUnformatted
+    gmbPageUrl
+    officeLocation {
+      latitude
+      longitude
+    }
+    companyAddress
+  }
+}

@@ -1,0 +1,10 @@
+query GetBlogPage {
+  blogPage {
+    id
+    _seoMetaTags {
+      ...metaTagsFragment
+    }
+    pageSlug
+    title
+  }
+}

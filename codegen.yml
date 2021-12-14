@@ -1,0 +1,18 @@
+schema:
+  - ${NEXT_DATOCMS_GRAPHQL_URL}:
+      headers:
+        Authorization: Bearer ${NEXT_DATOCMS_API_TOKEN}
+documents:
+  - ./src/lib/datocms/graphql/**/*.graphql
+generates:
+  ./src/lib/datocms/__generated__/schema.graphql:
+    plugins:
+      - schema-ast
+  ./src/lib/datocms/__generated__/types.ts:
+    plugins:
+      - typescript
+      - typescript-operations
+      - typescript-graphql-request
+config:
+  namingConvention:
+    enumValues: keep

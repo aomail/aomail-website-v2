@@ -1,0 +1,156 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 1081 769">
+  <path fill="#D9DFEC" d="M128 627H68l106 142h61L128 627z" />
+  <path fill="#F7F7F7" d="M189 627h-61l107 142h60L189 627z" />
+  <path fill="#D9DFEC" d="M249 627h-60l106 142h61L249 627z" />
+  <path fill="#F7F7F7" d="M309 627h-60l107 142h60L309 627z" />
+  <path fill="#D9DFEC" d="M309 627l107 142h60L370 627h-61z" />
+  <path fill="#F7F7F7" d="M430 627h-60l106 142h61L430 627z" />
+  <path fill="#D9DFEC" d="M491 627h-61l107 142h60L491 627z" />
+  <path fill="#F7F7F7" d="M551 627h-60l106 142h60L551 627z" />
+  <path fill="#D9DFEC" d="M611 627h-60l106 142h61L611 627z" />
+  <path fill="#F7F7F7" d="M672 627h-61l107 142h60L672 627z" />
+  <path fill="#D9DFEC" d="M732 627h-60l106 142h61L732 627z" />
+  <path fill="#F7F7F7" d="M792 627h-60l107 142h60L792 627z" />
+  <path fill="#D9DFEC" d="M853 627h-61l107 142h60L853 627z" />
+  <path fill="#F7F7F7" d="M913 627h-60l106 142h61L913 627z" />
+  <path fill="#D9DFEC" d="M974 627h-61l107 142h60L974 627z" />
+  <path fill="#C3CFE6" d="M128 567H68v60h60v-60z" />
+  <path fill="#D9DFEC" d="M189 567h-61v60h61v-60z" />
+  <path fill="#C3CFE6" d="M249 567h-60v60h60v-60z" />
+  <path fill="#D9DFEC" d="M249 627h60v-60h-60v60z" />
+  <path fill="#C3CFE6" d="M309 627h61v-60h-61v60z" />
+  <path fill="#D9DFEC" d="M430 567h-60v60h60v-60z" />
+  <path fill="#C3CFE6" d="M430 627h61v-60h-61v60z" />
+  <path fill="#D9DFEC" d="M491 627h60v-60h-60v60z" />
+  <path fill="#C3CFE6" d="M551 627h60v-60h-60v60z" />
+  <path fill="#D9DFEC" d="M611 627h61v-60h-61v60z" />
+  <path fill="#C3CFE6" d="M672 627h60v-60h-60v60z" />
+  <path fill="#D9DFEC" d="M732 627h60v-60h-60v60z" />
+  <path fill="#C3CFE6" d="M792 627h61v-60h-61v60z" />
+  <path fill="#D9DFEC" d="M853 627h60v-60h-60v60z" />
+  <path fill="#C3CFE6" d="M913 627h61v-60h-61v60z" />
+  <path fill="#D9DFEC" d="M60 476H0l68 91h60l-68-91z" />
+  <path fill="#F7F7F7" d="M189 567l-68-91H60l68 91h61z" />
+  <path fill="#D9DFEC" d="M189 567h60l-68-91h-60l68 91z" />
+  <path fill="#F7F7F7" d="M309 567l-67-91h-61l68 91h60z" />
+  <path fill="#D9DFEC" d="M370 567l-68-91h-60l67 91h61z" />
+  <path fill="#F7F7F7" d="M370 567h60l-68-91h-60l68 91z" />
+  <path fill="#D9DFEC" d="M491 567l-68-91h-61l68 91h61z" />
+  <path fill="#F7F7F7" d="M551 567l-68-91h-60l68 91h60z" />
+  <path fill="#D9DFEC" d="M611 567l-68-91h-60l68 91h60z" />
+  <path fill="#F7F7F7" d="M672 567l-68-91h-61l68 91h61z" />
+  <path fill="#D9DFEC" d="M732 567l-68-91h-60l68 91h60z" />
+  <path fill="#F7F7F7" d="M792 567l-67-91h-61l68 91h60z" />
+  <path fill="#D9DFEC" d="M792 567h61l-68-91h-60l67 91z" />
+  <path fill="#F7F7F7" d="M913 567l-68-91h-60l68 91h60z" />
+  <path fill="#D9DFEC" d="M974 567l-68-91h-61l68 91h61z" />
+  <path
+    fill="#5588EB"
+    d="M808 41c19 0 34 15 34 34h34a68 68 0 00-137 0h35c0-19 15-34 34-34z"
+  />
+  <path fill="#D9DFEC" d="M808 41c-19 0-34 15-34 34h68c0-19-15-34-34-34z" />
+  <path
+    fill="#5F9EFF"
+    d="M808 143c37 0 68-30 68-68h-34a34 34 0 11-68 0h-35c0 38 31 68 69 68z"
+  />
+  <path fill="#F7F7F7" d="M808 109c19 0 34-15 34-34h-68c0 19 15 34 34 34z" />
+  <path
+    stroke="#C3CFE6"
+    stroke-dasharray="5.7 5.7"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+    stroke-miterlimit="10"
+    stroke-width="1.7"
+    d="M66 342l92-92 2-151V75a74 74 0 11148 0l-5 93a74 74 0 10148 0l-4-93a74 74 0 11148 0l-5 93a74 74 0 10148 0l-4-93a74 74 0 11148 0v173l152 152"
+  />
+  <path
+    fill="#5588EB"
+    d="M664 134c19 0 34 15 34 34h35a68 68 0 10-137 0h34c0-19 15-34 34-34z"
+  />
+  <path fill="#D9DFEC" d="M664 134c-19 0-34 15-34 34h68c0-19-15-34-34-34z" />
+  <path
+    fill="#5F9EFF"
+    d="M664 236c38 0 69-30 69-68h-35a34 34 0 11-68 0h-34c0 38 30 68 68 68z"
+  />
+  <path fill="#F7F7F7" d="M664 202c19 0 34-15 34-34h-68c0 19 15 34 34 34z" />
+  <path
+    fill="#5588EB"
+    d="M521 41c19 0 34 15 34 34h34a68 68 0 10-137 0h35c0-19 15-34 34-34z"
+  />
+  <path fill="#D9DFEC" d="M521 41c-19 0-34 15-34 34h68c0-19-15-34-34-34z" />
+  <path
+    fill="#5F9EFF"
+    d="M521 143c37 0 68-30 68-68h-34a34 34 0 01-68 0h-35c0 38 31 68 69 68z"
+  />
+  <path fill="#F7F7F7" d="M521 109c19 0 34-15 34-34h-68c0 19 15 34 34 34z" />
+  <path
+    fill="#5588EB"
+    d="M377 134c19 0 34 15 34 34h35a68 68 0 10-137 0h34c0-19 15-34 34-34z"
+  />
+  <path fill="#D9DFEC" d="M377 134c-19 0-34 15-34 34h68c0-19-15-34-34-34z" />
+  <path
+    fill="#5F9EFF"
+    d="M377 236c38 0 69-30 69-68h-35a34 34 0 11-68 0h-34c0 38 31 68 68 68z"
+  />
+  <path fill="#F7F7F7" d="M377 202c19 0 34-15 34-34h-68c0 19 15 34 34 34z" />
+  <path
+    fill="#5588EB"
+    d="M234 41c19 0 34 15 34 34h34a68 68 0 00-137 0h35c0-19 15-34 34-34z"
+  />
+  <path fill="#D9DFEC" d="M234 41c-19 0-34 15-34 34h68c0-19-15-34-34-34z" />
+  <path
+    fill="#5F9EFF"
+    d="M234 143c38 0 68-30 68-68h-34a34 34 0 11-68 0h-35c0 38 31 68 69 68z"
+  />
+  <path fill="#F7F7F7" d="M234 109c19 0 34-15 34-34h-68c0 19 15 34 34 34z" />
+  <path
+    fill="#5F9EFF"
+    d="M158 400v76l91 91v-76l-91-91zM158 260v76l91 91v-77l-91-90z"
+  />
+  <path
+    fill="#5588EB"
+    d="M158 476v-76l-90 91v76l90-91zM68 350v77l90-91v-76l-90 90z"
+  />
+  <path fill="#F7F7F7" d="M158 336v64l91 91v-64l-91-91z" />
+  <path fill="#C3CFE6" d="M158 400v-64l-90 91v64l90-91z" />
+  <path
+    fill="#5F9EFF"
+    d="M340 400v76l90 91v-76l-90-91zM340 260v76l90 91v-77l-90-90z"
+  />
+  <path
+    fill="#5588EB"
+    d="M340 476v-76l-91 91v76l91-91zM249 350v77l91-91v-76l-91 90z"
+  />
+  <path fill="#F7F7F7" d="M340 336v64l90 91v-64l-90-91z" />
+  <path fill="#C3CFE6" d="M340 400v-64l-91 91v64l91-91z" />
+  <path
+    fill="#5F9EFF"
+    d="M521 400v76l90 91v-76l-90-91zM521 260v76l90 91v-77l-90-90z"
+  />
+  <path
+    fill="#5588EB"
+    d="M521 476v-76l-91 91v76l91-91zM430 350v77l91-91v-76l-91 90z"
+  />
+  <path fill="#F7F7F7" d="M521 336v64l90 91v-64l-90-91z" />
+  <path fill="#C3CFE6" d="M521 400v-64l-91 91v64l91-91z" />
+  <path
+    fill="#5F9EFF"
+    d="M702 400v76l90 91v-76l-90-91zM702 260v76l90 91v-77l-90-90z"
+  />
+  <path
+    fill="#5588EB"
+    d="M702 476v-76l-91 91v76l91-91zM611 350v77l91-91v-76l-91 90z"
+  />
+  <path fill="#F7F7F7" d="M702 336v64l90 91v-64l-90-91z" />
+  <path fill="#C3CFE6" d="M702 400v-64l-91 91v64l91-91z" />
+  <path
+    fill="#5F9EFF"
+    d="M883 400v76l91 91v-76l-91-91zM883 260v76l91 91v-77l-91-90z"
+  />
+  <path
+    fill="#5588EB"
+    d="M883 476v-76l-91 91v76l91-91zM792 350v77l91-91v-76l-91 90z"
+  />
+  <path fill="#F7F7F7" d="M883 336v64l91 91v-64l-91-91z" />
+  <path fill="#C3CFE6" d="M883 400v-64l-91 91v64l91-91z" />
+</svg>

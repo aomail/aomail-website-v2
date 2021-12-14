@@ -1,0 +1,10 @@
+query GetLegalListPage {
+  legalPage {
+    id
+    _seoMetaTags {
+      ...metaTagsFragment
+    }
+    legalPageSlug
+    title
+  }
+}

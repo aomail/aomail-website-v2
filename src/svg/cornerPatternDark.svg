@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 360 153">
+  <g clip-path="url(#clip0)">
+    <g clip-path="url(#clip1)">
+      <path
+        fill="#fff"
+        fill-opacity=".07"
+        d="M216.77 43.57h-50.18V-6.71l50.18 50.28zM166.6 43.57h50.17v50.27l-50.18-50.27z"
+      />
+      <path
+        fill="#fff"
+        fill-opacity=".07"
+        d="M166.6-6.7h50.17v50.27L166.59-6.71z"
+      />
+      <path
+        stroke="#fff"
+        stroke-dasharray="5 2"
+        stroke-opacity=".15"
+        d="M216.77 43.57L166.59-6.71"
+      />
+      <path
+        fill="#fff"
+        fill-opacity=".19"
+        d="M116.41 152.16H0V93.84l116.41 58.32z"
+      />
+      <path
+        fill="#fff"
+        fill-opacity=".04"
+        fill-rule="evenodd"
+        d="M58.2 93.84H.26l57.96 29.04v.12l.12-.06.13.06v-.12l57.95-29.04h-58.2z"
+        clip-rule="evenodd"
+      />
+      <path
+        fill="#fff"
+        fill-opacity=".04"
+        d="M266.95 93.84h50.18v50.28l-50.18-50.28zM266.95 43.57h50.18v50.27l-50.18-50.27z"
+      />
+      <path
+        fill="#fff"
+        fill-opacity=".19"
+        d="M266.95 43.57h-50.18v50.27l50.18-50.27zM266.95-6.7h-50.18v50.27l50.18-50.28zM16.06-6.7h50.18v50.27L16.06-6.71z"
+      />
+      <path
+        fill="#fff"
+        fill-opacity=".19"
+        d="M266.95-6.7v50.27h-50.18l50.18-50.28z"
+      />
+      <path
+        fill="#fff"
+        fill-opacity=".04"
+        d="M166.6 43.57a100.73 100.73 0 00-29.4-71.1 100.34 100.34 0 00-70.96-29.45V43.57h100.35zM313.23-48.54A45.88 45.88 0 01359.14-2.7a45.88 45.88 0 01-45.91 45.86A45.88 45.88 0 01267.32-2.7a45.88 45.88 0 0145.9-45.85z"
+      />
+      <path
+        stroke="#fff"
+        stroke-dasharray="5 2"
+        stroke-opacity=".12"
+        d="M166.6 43.57L116.4 93.84"
+      />
+      <path
+        stroke="#fff"
+        stroke-dasharray="5 2"
+        stroke-opacity=".42"
+        d="M66.24 43.57L116.4-6.71"
+      />
+      <path
+        stroke="#fff"
+        stroke-dasharray="5 2"
+        stroke-opacity=".04"
+        d="M266.95 43.57l50.18-50.28"
+      />
+    </g>
+  </g>
+  <defs>
+    <clipPath id="clip0"><path fill="#fff" d="M0 0h360v153H0z" /></clipPath>
+    <clipPath id="clip1">
+      <path
+        fill="#fff"
+        d="M0 0h359.14v209.92H0z"
+        transform="translate(0 -57.71)"
+      />
+    </clipPath>
+  </defs>
+</svg>

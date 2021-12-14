@@ -1,0 +1,44 @@
+query GetServicePage($pageSlug: String!) {
+  service(filter: { pageSlug: { eq: $pageSlug } }) {
+    _seoMetaTags {
+      ...metaTagsFragment
+    }
+    canonicalPath
+    id
+    mainHeading
+    illustration
+    heroParagraph {
+      value
+    }
+    leftRightParagraphs {
+      ... on FeatureParagraphImageRecord {
+        ...featureParagraphImageRecordFragment
+      }
+    }
+    pageContent {
+      value
+      blocks {
+        ... on TwoColumnListRecord {
+          ...twoColumnListRecordFragment
+        }
+      }
+    }
+    modularContent {
+      ... on SideBySidePRecord {
+        ...sideBySidePRecordFragment
+      }
+      ... on TestimonialRecord {
+        ...testimonialRecordFragment
+      }
+      ... on CtaRecord {
+        ...ctaRecordFragment
+      }
+    }
+  }
+}
+
+query GetServicePages {
+  allServices {
+    pageSlug
+  }
+}

@@ -1,0 +1,1168 @@
+{
+  "colors": [
+    {
+      "name": "transparent",
+      "values": {
+        "hex": "#FFFFFF",
+        "hexa": "#FFFFFF0",
+        "rgb": "rgb(255, 255, 255)",
+        "rgba": "rgba(255, 255, 255, 0)",
+        "hsl": "hsl(0, 0, 100)",
+        "hsla": "hsl(0, 0, 100, 0)",
+        "alpha": 0
+      }
+    },
+    {
+      "name": "Primary/blue",
+      "values": {
+        "hex": "#0B61CB",
+        "hexa": "#0B61CBff",
+        "rgb": "rgb(11, 97, 203)",
+        "rgba": "rgba(11, 97, 203, 1)",
+        "hsl": "hsl(213, 90, 42)",
+        "hsla": "hsl(213, 90, 42, 1)",
+        "alpha": 1
+      }
+    },
+    {
+      "name": "Primary/darkBlue",
+      "values": {
+        "hex": "#00237D",
+        "hexa": "#00237Dff",
+        "rgb": "rgb(0, 35, 125)",
+        "rgba": "rgba(0, 35, 125, 1)",
+        "hsl": "hsl(223, 100, 25)",
+        "hsla": "hsl(223, 100, 25, 1)",
+        "alpha": 1
+      }
+    },
+    {
+      "name": "Primary/green",
+      "values": {
+        "hex": "#548D44",
+        "hexa": "#548D44ff",
+        "rgb": "rgb(84, 141, 68)",
+        "rgba": "rgba(84, 141, 68, 1)",
+        "hsl": "hsl(107, 35, 41)",
+        "hsla": "hsl(107, 35, 41, 1)",
+        "alpha": 1
+      }
+    },
+    {
+      "name": "Primary/lightBlue",
+      "values": {
+        "hex": "#D3E5F6",
+        "hexa": "#D3E5F6ff",
+        "rgb": "rgb(211, 229, 246)",
+        "rgba": "rgba(211, 229, 246, 1)",
+        "hsl": "hsl(209, 66, 90)",
+        "hsla": "hsl(209, 66, 90, 1)",
+        "alpha": 1
+      }
+    },
+    {
+      "name": "Primary/orange",
+      "values": {
+        "hex": "#FE8B2A",
+        "hexa": "#FE8B2Aff",
+        "rgb": "rgb(254, 139, 42)",
+        "rgba": "rgba(254, 139, 42, 1)",
+        "hsl": "hsl(27, 99, 58)",
+        "hsla": "hsl(27, 99, 58, 1)",
+        "alpha": 1
+      }
+    },
+    {
+      "name": "Primary/red",
+      "values": {
+        "hex": "#FA253A",
+        "hexa": "#FA253Aff",
+        "rgb": "rgb(250, 37, 58)",
+        "rgba": "rgba(250, 37, 58, 1)",
+        "hsl": "hsl(354, 96, 56)",
+        "hsla": "hsl(354, 96, 56, 1)",
+        "alpha": 1
+      }
+    },
+    {
+      "name": "Primary/black",
+      "values": {
+        "hex": "#13111C",
+        "hexa": "#13111Cff",
+        "rgb": "rgb(19, 17, 28)",
+        "rgba": "rgba(19, 17, 28, 1)",
+        "hsl": "hsl(251, 24, 9)",
+        "hsla": "hsl(251, 24, 9, 1)",
+        "alpha": 1
+      }
+    },
+    {
+      "name": "Primary/grey",
+      "values": {
+        "hex": "#9D9DA6",
+        "hexa": "#9D9DA6ff",
+        "rgb": "rgb(157, 157, 166)",
+        "rgba": "rgba(157, 157, 166, 1)",
+        "hsl": "hsl(240, 5, 63)",
+        "hsla": "hsl(240, 5, 63, 1)",
+        "alpha": 1
+      }
+    },
+    {
+      "name": "Primary/white",
+      "values": {
+        "hex": "#FFFFFF",
+        "hexa": "#FFFFFFff",
+        "rgb": "rgb(255, 255, 255)",
+        "rgba": "rgba(255, 255, 255, 1)",
+        "hsl": "hsl(0, 0, 100)",
+        "hsla": "hsl(0, 0, 100, 1)",
+        "alpha": 1
+      }
+    },
+    {
+      "name": "Alpha/Darken/DA05",
+      "values": {
+        "hex": "#13111C",
+        "hexa": "#13111C5",
+        "rgb": "rgb(19, 17, 28)",
+        "rgba": "rgba(19, 17, 28, 0.02)",
+        "hsl": "hsl(251, 24, 9)",
+        "hsla": "hsl(251, 24, 9, 0.02)",
+        "alpha": 0.02
+      }
+    },
+    {
+      "name": "Alpha/Darken/DA10",
+      "values": {
+        "hex": "#13111C",
+        "hexa": "#13111Ca",
+        "rgb": "rgb(19, 17, 28)",
+        "rgba": "rgba(19, 17, 28, 0.04)",
+        "hsl": "hsl(251, 24, 9)",
+        "hsla": "hsl(251, 24, 9, 0.04)",
+        "alpha": 0.04
+      }
+    },
+    {
+      "name": "Alpha/Darken/DA15",
+      "values": {
+        "hex": "#13111C",
+        "hexa": "#13111C12",
+        "rgb": "rgb(19, 17, 28)",
+        "rgba": "rgba(19, 17, 28, 0.07)",
+        "hsl": "hsl(251, 24, 9)",
+        "hsla": "hsl(251, 24, 9, 0.07)",
+        "alpha": 0.07
+      }
+    },
+    {
+      "name": "Alpha/Darken/DA20",
+      "values": {
+        "hex": "#13111C",
+        "hexa": "#13111C1f",
+        "rgb": "rgb(19, 17, 28)",
+        "rgba": "rgba(19, 17, 28, 0.12)",
+        "hsl": "hsl(251, 24, 9)",
+        "hsla": "hsl(251, 24, 9, 0.12)",
+        "alpha": 0.12
+      }
+    },
+    {
+      "name": "Alpha/Darken/DA25",
+      "values": {
+        "hex": "#13111C",
+        "hexa": "#13111C26",
+        "rgb": "rgb(19, 17, 28)",
+        "rgba": "rgba(19, 17, 28, 0.15)",
+        "hsl": "hsl(251, 24, 9)",
+        "hsla": "hsl(251, 24, 9, 0.15)",
+        "alpha": 0.15
+      }
+    },
+    {
+      "name": "Alpha/Darken/DA30",
+      "values": {
+        "hex": "#13111C",
+        "hexa": "#13111C30",
+        "rgb": "rgb(19, 17, 28)",
+        "rgba": "rgba(19, 17, 28, 0.19)",
+        "hsl": "hsl(251, 24, 9)",
+        "hsla": "hsl(251, 24, 9, 0.19)",
+        "alpha": 0.19
+      }
+    },
+    {
+      "name": "Alpha/Darken/DA35",
+      "values": {
+        "hex": "#13111C",
+        "hexa": "#13111C38",
+        "rgb": "rgb(19, 17, 28)",
+        "rgba": "rgba(19, 17, 28, 0.22)",
+        "hsl": "hsl(251, 24, 9)",
+        "hsla": "hsl(251, 24, 9, 0.22)",
+        "alpha": 0.22
+      }
+    },
+    {
+      "name": "Alpha/Darken/DA40",
+      "values": {
+        "hex": "#13111C",
+        "hexa": "#13111C47",
+        "rgb": "rgb(19, 17, 28)",
+        "rgba": "rgba(19, 17, 28, 0.28)",
+        "hsl": "hsl(251, 24, 9)",
+        "hsla": "hsl(251, 24, 9, 0.28)",
+        "alpha": 0.28
+      }
+    },
+    {
+      "name": "Alpha/Darken/DA50",
+      "values": {
+        "hex": "#13111C",
+        "hexa": "#13111C6b",
+        "rgb": "rgb(19, 17, 28)",
+        "rgba": "rgba(19, 17, 28, 0.42)",
+        "hsl": "hsl(251, 24, 9)",
+        "hsla": "hsl(251, 24, 9, 0.42)",
+        "alpha": 0.42
+      }
+    },
+    {
+      "name": "Alpha/Darken/DA60",
+      "values": {
+        "hex": "#13111C",
+        "hexa": "#13111C87",
+        "rgb": "rgb(19, 17, 28)",
+        "rgba": "rgba(19, 17, 28, 0.53)",
+        "hsl": "hsl(251, 24, 9)",
+        "hsla": "hsl(251, 24, 9, 0.53)",
+        "alpha": 0.53
+      }
+    },
+    {
+      "name": "Alpha/Darken/DA70",
+      "values": {
+        "hex": "#13111C",
+        "hexa": "#13111Cad",
+        "rgb": "rgb(19, 17, 28)",
+        "rgba": "rgba(19, 17, 28, 0.68)",
+        "hsl": "hsl(251, 24, 9)",
+        "hsla": "hsl(251, 24, 9, 0.68)",
+        "alpha": 0.68
+      }
+    },
+    {
+      "name": "Alpha/Darken/DA75",
+      "values": {
+        "hex": "#13111C",
+        "hexa": "#13111Cc2",
+        "rgb": "rgb(19, 17, 28)",
+        "rgba": "rgba(19, 17, 28, 0.76)",
+        "hsl": "hsl(251, 24, 9)",
+        "hsla": "hsl(251, 24, 9, 0.76)",
+        "alpha": 0.76
+      }
+    },
+    {
+      "name": "Alpha/Darken/DA80",
+      "values": {
+        "hex": "#13111C",
+        "hexa": "#13111Ccf",
+        "rgb": "rgb(19, 17, 28)",
+        "rgba": "rgba(19, 17, 28, 0.81)",
+        "hsl": "hsl(251, 24, 9)",
+        "hsla": "hsl(251, 24, 9, 0.81)",
+        "alpha": 0.81
+      }
+    },
+    {
+      "name": "Alpha/Darken/DA85",
+      "values": {
+        "hex": "#13111C",
+        "hexa": "#13111Ce0",
+        "rgb": "rgb(19, 17, 28)",
+        "rgba": "rgba(19, 17, 28, 0.88)",
+        "hsl": "hsl(251, 24, 9)",
+        "hsla": "hsl(251, 24, 9, 0.88)",
+        "alpha": 0.88
+      }
+    },
+    {
+      "name": "Alpha/Darken/DA90",
+      "values": {
+        "hex": "#13111C",
+        "hexa": "#13111Ced",
+        "rgb": "rgb(19, 17, 28)",
+        "rgba": "rgba(19, 17, 28, 0.93)",
+        "hsl": "hsl(251, 24, 9)",
+        "hsla": "hsl(251, 24, 9, 0.93)",
+        "alpha": 0.93
+      }
+    },
+    {
+      "name": "Alpha/Darken/DA100",
+      "values": {
+        "hex": "#13111C",
+        "hexa": "#13111Cff",
+        "rgb": "rgb(19, 17, 28)",
+        "rgba": "rgba(19, 17, 28, 1)",
+        "hsl": "hsl(251, 24, 9)",
+        "hsla": "hsl(251, 24, 9, 1)",
+        "alpha": 1
+      }
+    },
+    {
+      "name": "Alpha/Lighten/LA05",
+      "values": {
+        "hex": "#FFFFFF",
+        "hexa": "#FFFFFF5",
+        "rgb": "rgb(255, 255, 255)",
+        "rgba": "rgba(255, 255, 255, 0.02)",
+        "hsl": "hsl(0, 0, 100)",
+        "hsla": "hsl(0, 0, 100, 0.02)",
+        "alpha": 0.02
+      }
+    },
+    {
+      "name": "Alpha/Lighten/LA10",
+      "values": {
+        "hex": "#FFFFFF",
+        "hexa": "#FFFFFFa",
+        "rgb": "rgb(255, 255, 255)",
+        "rgba": "rgba(255, 255, 255, 0.04)",
+        "hsl": "hsl(0, 0, 100)",
+        "hsla": "hsl(0, 0, 100, 0.04)",
+        "alpha": 0.04
+      }
+    },
+    {
+      "name": "Alpha/Lighten/LA15",
+      "values": {
+        "hex": "#FFFFFF",
+        "hexa": "#FFFFFF12",
+        "rgb": "rgb(255, 255, 255)",
+        "rgba": "rgba(255, 255, 255, 0.07)",
+        "hsl": "hsl(0, 0, 100)",
+        "hsla": "hsl(0, 0, 100, 0.07)",
+        "alpha": 0.07
+      }
+    },
+    {
+      "name": "Alpha/Lighten/LA20",
+      "values": {
+        "hex": "#FFFFFF",
+        "hexa": "#FFFFFF1f",
+        "rgb": "rgb(255, 255, 255)",
+        "rgba": "rgba(255, 255, 255, 0.12)",
+        "hsl": "hsl(0, 0, 100)",
+        "hsla": "hsl(0, 0, 100, 0.12)",
+        "alpha": 0.12
+      }
+    },
+    {
+      "name": "Alpha/Lighten/LA25",
+      "values": {
+        "hex": "#FFFFFF",
+        "hexa": "#FFFFFF26",
+        "rgb": "rgb(255, 255, 255)",
+        "rgba": "rgba(255, 255, 255, 0.15)",
+        "hsl": "hsl(0, 0, 100)",
+        "hsla": "hsl(0, 0, 100, 0.15)",
+        "alpha": 0.15
+      }
+    },
+    {
+      "name": "Alpha/Lighten/LA30",
+      "values": {
+        "hex": "#FFFFFF",
+        "hexa": "#FFFFFF30",
+        "rgb": "rgb(255, 255, 255)",
+        "rgba": "rgba(255, 255, 255, 0.19)",
+        "hsl": "hsl(0, 0, 100)",
+        "hsla": "hsl(0, 0, 100, 0.19)",
+        "alpha": 0.19
+      }
+    },
+    {
+      "name": "Alpha/Lighten/LA35",
+      "values": {
+        "hex": "#FFFFFF",
+        "hexa": "#FFFFFF38",
+        "rgb": "rgb(255, 255, 255)",
+        "rgba": "rgba(255, 255, 255, 0.22)",
+        "hsl": "hsl(0, 0, 100)",
+        "hsla": "hsl(0, 0, 100, 0.22)",
+        "alpha": 0.22
+      }
+    },
+    {
+      "name": "Alpha/Lighten/LA40",
+      "values": {
+        "hex": "#FFFFFF",
+        "hexa": "#FFFFFF47",
+        "rgb": "rgb(255, 255, 255)",
+        "rgba": "rgba(255, 255, 255, 0.28)",
+        "hsl": "hsl(0, 0, 100)",
+        "hsla": "hsl(0, 0, 100, 0.28)",
+        "alpha": 0.28
+      }
+    },
+    {
+      "name": "Alpha/Lighten/LA50",
+      "values": {
+        "hex": "#FFFFFF",
+        "hexa": "#FFFFFF6b",
+        "rgb": "rgb(255, 255, 255)",
+        "rgba": "rgba(255, 255, 255, 0.42)",
+        "hsl": "hsl(0, 0, 100)",
+        "hsla": "hsl(0, 0, 100, 0.42)",
+        "alpha": 0.42
+      }
+    },
+    {
+      "name": "Alpha/Lighten/LA60",
+      "values": {
+        "hex": "#FFFFFF",
+        "hexa": "#FFFFFF87",
+        "rgb": "rgb(255, 255, 255)",
+        "rgba": "rgba(255, 255, 255, 0.53)",
+        "hsl": "hsl(0, 0, 100)",
+        "hsla": "hsl(0, 0, 100, 0.53)",
+        "alpha": 0.53
+      }
+    },
+    {
+      "name": "Alpha/Lighten/LA70",
+      "values": {
+        "hex": "#FFFFFF",
+        "hexa": "#FFFFFFad",
+        "rgb": "rgb(255, 255, 255)",
+        "rgba": "rgba(255, 255, 255, 0.68)",
+        "hsl": "hsl(0, 0, 100)",
+        "hsla": "hsl(0, 0, 100, 0.68)",
+        "alpha": 0.68
+      }
+    },
+    {
+      "name": "Alpha/Lighten/LA75",
+      "values": {
+        "hex": "#FFFFFF",
+        "hexa": "#FFFFFFc2",
+        "rgb": "rgb(255, 255, 255)",
+        "rgba": "rgba(255, 255, 255, 0.76)",
+        "hsl": "hsl(0, 0, 100)",
+        "hsla": "hsl(0, 0, 100, 0.76)",
+        "alpha": 0.76
+      }
+    },
+    {
+      "name": "Alpha/Lighten/LA80",
+      "values": {
+        "hex": "#FFFFFF",
+        "hexa": "#FFFFFFcf",
+        "rgb": "rgb(255, 255, 255)",
+        "rgba": "rgba(255, 255, 255, 0.81)",
+        "hsl": "hsl(0, 0, 100)",
+        "hsla": "hsl(0, 0, 100, 0.81)",
+        "alpha": 0.81
+      }
+    },
+    {
+      "name": "Alpha/Lighten/LA85",
+      "values": {
+        "hex": "#FFFFFF",
+        "hexa": "#FFFFFFe0",
+        "rgb": "rgb(255, 255, 255)",
+        "rgba": "rgba(255, 255, 255, 0.88)",
+        "hsl": "hsl(0, 0, 100)",
+        "hsla": "hsl(0, 0, 100, 0.88)",
+        "alpha": 0.88
+      }
+    },
+    {
+      "name": "Alpha/Lighten/LA90",
+      "values": {
+        "hex": "#FFFFFF",
+        "hexa": "#FFFFFFed",
+        "rgb": "rgb(255, 255, 255)",
+        "rgba": "rgba(255, 255, 255, 0.93)",
+        "hsl": "hsl(0, 0, 100)",
+        "hsla": "hsl(0, 0, 100, 0.93)",
+        "alpha": 0.93
+      }
+    },
+    {
+      "name": "Alpha/Lighten/LA100",
+      "values": {
+        "hex": "#FFFFFF",
+        "hexa": "#FFFFFFff",
+        "rgb": "rgb(255, 255, 255)",
+        "rgba": "rgba(255, 255, 255, 1)",
+        "hsl": "hsl(0, 0, 100)",
+        "hsla": "hsl(0, 0, 100, 1)",
+        "alpha": 1
+      }
+    },
+    {
+      "name": "Alpha/Dark Blue/DBA05",
+      "values": {
+        "hex": "#00237D",
+        "hexa": "#00237D5",
+        "rgb": "rgb(0, 35, 125)",
+        "rgba": "rgba(0, 35, 125, 0.02)",
+        "hsl": "hsl(223, 100, 25)",
+        "hsla": "hsl(223, 100, 25, 0.02)",
+        "alpha": 0.02
+      }
+    },
+    {
+      "name": "Alpha/Dark Blue/DBA10",
+      "values": {
+        "hex": "#00237D",
+        "hexa": "#00237Da",
+        "rgb": "rgb(0, 35, 125)",
+        "rgba": "rgba(0, 35, 125, 0.04)",
+        "hsl": "hsl(223, 100, 25)",
+        "hsla": "hsl(223, 100, 25, 0.04)",
+        "alpha": 0.04
+      }
+    },
+    {
+      "name": "Alpha/Dark Blue/DBA15",
+      "values": {
+        "hex": "#00237D",
+        "hexa": "#00237D12",
+        "rgb": "rgb(0, 35, 125)",
+        "rgba": "rgba(0, 35, 125, 0.07)",
+        "hsl": "hsl(223, 100, 25)",
+        "hsla": "hsl(223, 100, 25, 0.07)",
+        "alpha": 0.07
+      }
+    },
+    {
+      "name": "Alpha/Dark Blue/DBA20",
+      "values": {
+        "hex": "#00237D",
+        "hexa": "#00237D1f",
+        "rgb": "rgb(0, 35, 125)",
+        "rgba": "rgba(0, 35, 125, 0.12)",
+        "hsl": "hsl(223, 100, 25)",
+        "hsla": "hsl(223, 100, 25, 0.12)",
+        "alpha": 0.12
+      }
+    },
+    {
+      "name": "Alpha/Dark Blue/DBA25",
+      "values": {
+        "hex": "#00237D",
+        "hexa": "#00237D26",
+        "rgb": "rgb(0, 35, 125)",
+        "rgba": "rgba(0, 35, 125, 0.15)",
+        "hsl": "hsl(223, 100, 25)",
+        "hsla": "hsl(223, 100, 25, 0.15)",
+        "alpha": 0.15
+      }
+    },
+    {
+      "name": "Alpha/Dark Blue/DBA30",
+      "values": {
+        "hex": "#00237D",
+        "hexa": "#00237D30",
+        "rgb": "rgb(0, 35, 125)",
+        "rgba": "rgba(0, 35, 125, 0.19)",
+        "hsl": "hsl(223, 100, 25)",
+        "hsla": "hsl(223, 100, 25, 0.19)",
+        "alpha": 0.19
+      }
+    },
+    {
+      "name": "Alpha/Dark Blue/DBA35",
+      "values": {
+        "hex": "#00237D",
+        "hexa": "#00237D38",
+        "rgb": "rgb(0, 35, 125)",
+        "rgba": "rgba(0, 35, 125, 0.22)",
+        "hsl": "hsl(223, 100, 25)",
+        "hsla": "hsl(223, 100, 25, 0.22)",
+        "alpha": 0.22
+      }
+    },
+    {
+      "name": "Alpha/Dark Blue/DBA40",
+      "values": {
+        "hex": "#00237D",
+        "hexa": "#00237D47",
+        "rgb": "rgb(0, 35, 125)",
+        "rgba": "rgba(0, 35, 125, 0.28)",
+        "hsl": "hsl(223, 100, 25)",
+        "hsla": "hsl(223, 100, 25, 0.28)",
+        "alpha": 0.28
+      }
+    },
+    {
+      "name": "Alpha/Dark Blue/DBA50",
+      "values": {
+        "hex": "#00237D",
+        "hexa": "#00237D6b",
+        "rgb": "rgb(0, 35, 125)",
+        "rgba": "rgba(0, 35, 125, 0.42)",
+        "hsl": "hsl(223, 100, 25)",
+        "hsla": "hsl(223, 100, 25, 0.42)",
+        "alpha": 0.42
+      }
+    },
+    {
+      "name": "Alpha/Dark Blue/DBA60",
+      "values": {
+        "hex": "#00237D",
+        "hexa": "#00237D87",
+        "rgb": "rgb(0, 35, 125)",
+        "rgba": "rgba(0, 35, 125, 0.53)",
+        "hsl": "hsl(223, 100, 25)",
+        "hsla": "hsl(223, 100, 25, 0.53)",
+        "alpha": 0.53
+      }
+    },
+    {
+      "name": "Alpha/Dark Blue/DBA70",
+      "values": {
+        "hex": "#00237D",
+        "hexa": "#00237Dad",
+        "rgb": "rgb(0, 35, 125)",
+        "rgba": "rgba(0, 35, 125, 0.68)",
+        "hsl": "hsl(223, 100, 25)",
+        "hsla": "hsl(223, 100, 25, 0.68)",
+        "alpha": 0.68
+      }
+    },
+    {
+      "name": "Alpha/Dark Blue/DBA75",
+      "values": {
+        "hex": "#00237D",
+        "hexa": "#00237Dc2",
+        "rgb": "rgb(0, 35, 125)",
+        "rgba": "rgba(0, 35, 125, 0.76)",
+        "hsl": "hsl(223, 100, 25)",
+        "hsla": "hsl(223, 100, 25, 0.76)",
+        "alpha": 0.76
+      }
+    },
+    {
+      "name": "Alpha/Dark Blue/DBA80",
+      "values": {
+        "hex": "#00237D",
+        "hexa": "#00237Dcf",
+        "rgb": "rgb(0, 35, 125)",
+        "rgba": "rgba(0, 35, 125, 0.81)",
+        "hsl": "hsl(223, 100, 25)",
+        "hsla": "hsl(223, 100, 25, 0.81)",
+        "alpha": 0.81
+      }
+    },
+    {
+      "name": "Alpha/Dark Blue/DBA85",
+      "values": {
+        "hex": "#00237D",
+        "hexa": "#00237De0",
+        "rgb": "rgb(0, 35, 125)",
+        "rgba": "rgba(0, 35, 125, 0.88)",
+        "hsl": "hsl(223, 100, 25)",
+        "hsla": "hsl(223, 100, 25, 0.88)",
+        "alpha": 0.88
+      }
+    },
+    {
+      "name": "Alpha/Dark Blue/DBA90",
+      "values": {
+        "hex": "#00237D",
+        "hexa": "#00237Ded",
+        "rgb": "rgb(0, 35, 125)",
+        "rgba": "rgba(0, 35, 125, 0.93)",
+        "hsl": "hsl(223, 100, 25)",
+        "hsla": "hsl(223, 100, 25, 0.93)",
+        "alpha": 0.93
+      }
+    },
+    {
+      "name": "Alpha/Dark Blue/DBA100",
+      "values": {
+        "hex": "#00237D",
+        "hexa": "#00237Dff",
+        "rgb": "rgb(0, 35, 125)",
+        "rgba": "rgba(0, 35, 125, 1)",
+        "hsl": "hsl(223, 100, 25)",
+        "hsla": "hsl(223, 100, 25, 1)",
+        "alpha": 1
+      }
+    },
+    {
+      "name": "Alpha/Green/GA20",
+      "values": {
+        "hex": "#548D44",
+        "hexa": "#548D441f",
+        "rgb": "rgb(84, 141, 68)",
+        "rgba": "rgba(84, 141, 68, 0.12)",
+        "hsl": "hsl(107, 35, 41)",
+        "hsla": "hsl(107, 35, 41, 0.12)",
+        "alpha": 0.12
+      }
+    },
+    {
+      "name": "Alpha/Green/GA40",
+      "values": {
+        "hex": "#548D44",
+        "hexa": "#548D4440",
+        "rgb": "rgb(84, 141, 68)",
+        "rgba": "rgba(84, 141, 68, 0.25)",
+        "hsl": "hsl(107, 35, 41)",
+        "hsla": "hsl(107, 35, 41, 0.25)",
+        "alpha": 0.25
+      }
+    },
+    {
+      "name": "Alpha/Green/GA75",
+      "values": {
+        "hex": "#548D44",
+        "hexa": "#548D4499",
+        "rgb": "rgb(84, 141, 68)",
+        "rgba": "rgba(84, 141, 68, 0.6)",
+        "hsl": "hsl(107, 35, 41)",
+        "hsla": "hsl(107, 35, 41, 0.6)",
+        "alpha": 0.6
+      }
+    },
+    {
+      "name": "Alpha/Orange/OA20",
+      "values": {
+        "hex": "#FE9339",
+        "hexa": "#FE93391f",
+        "rgb": "rgb(254, 147, 57)",
+        "rgba": "rgba(254, 147, 57, 0.12)",
+        "hsl": "hsl(27, 99, 61)",
+        "hsla": "hsl(27, 99, 61, 0.12)",
+        "alpha": 0.12
+      }
+    },
+    {
+      "name": "Alpha/Orange/OA40",
+      "values": {
+        "hex": "#FE9339",
+        "hexa": "#FE933940",
+        "rgb": "rgb(254, 147, 57)",
+        "rgba": "rgba(254, 147, 57, 0.25)",
+        "hsl": "hsl(27, 99, 61)",
+        "hsla": "hsl(27, 99, 61, 0.25)",
+        "alpha": 0.25
+      }
+    },
+    {
+      "name": "Alpha/Orange/OA75",
+      "values": {
+        "hex": "#FE9339",
+        "hexa": "#FE933999",
+        "rgb": "rgb(254, 147, 57)",
+        "rgba": "rgba(254, 147, 57, 0.6)",
+        "hsl": "hsl(27, 99, 61)",
+        "hsla": "hsl(27, 99, 61, 0.6)",
+        "alpha": 0.6
+      }
+    },
+    {
+      "name": "Alpha/Red/RA20",
+      "values": {
+        "hex": "#FA253A",
+        "hexa": "#FA253A1f",
+        "rgb": "rgb(250, 37, 58)",
+        "rgba": "rgba(250, 37, 58, 0.12)",
+        "hsl": "hsl(354, 96, 56)",
+        "hsla": "hsl(354, 96, 56, 0.12)",
+        "alpha": 0.12
+      }
+    },
+    {
+      "name": "Alpha/Red/RA40",
+      "values": {
+        "hex": "#FA253A",
+        "hexa": "#FA253A40",
+        "rgb": "rgb(250, 37, 58)",
+        "rgba": "rgba(250, 37, 58, 0.25)",
+        "hsl": "hsl(354, 96, 56)",
+        "hsla": "hsl(354, 96, 56, 0.25)",
+        "alpha": 0.25
+      }
+    },
+    {
+      "name": "Alpha/Red/RA75",
+      "values": {
+        "hex": "#FA253A",
+        "hexa": "#FA253A99",
+        "rgb": "rgb(250, 37, 58)",
+        "rgba": "rgba(250, 37, 58, 0.6)",
+        "hsl": "hsl(354, 96, 56)",
+        "hsla": "hsl(354, 96, 56, 0.6)",
+        "alpha": 0.6
+      }
+    },
+    {
+      "name": "Alpha/Blue/BA20",
+      "values": {
+        "hex": "#0B61CB",
+        "hexa": "#0B61CB1f",
+        "rgb": "rgb(11, 97, 203)",
+        "rgba": "rgba(11, 97, 203, 0.12)",
+        "hsl": "hsl(213, 90, 42)",
+        "hsla": "hsl(213, 90, 42, 0.12)",
+        "alpha": 0.12
+      }
+    },
+    {
+      "name": "Alpha/Blue/BA40",
+      "values": {
+        "hex": "#0B61CB",
+        "hexa": "#0B61CB40",
+        "rgb": "rgb(11, 97, 203)",
+        "rgba": "rgba(11, 97, 203, 0.25)",
+        "hsl": "hsl(213, 90, 42)",
+        "hsla": "hsl(213, 90, 42, 0.25)",
+        "alpha": 0.25
+      }
+    },
+    {
+      "name": "Alpha/Blue/BA75",
+      "values": {
+        "hex": "#0B61CB",
+        "hexa": "#0B61CB99",
+        "rgb": "rgb(11, 97, 203)",
+        "rgba": "rgba(11, 97, 203, 0.6)",
+        "hsl": "hsl(213, 90, 42)",
+        "hsla": "hsl(213, 90, 42, 0.6)",
+        "alpha": 0.6
+      }
+    },
+    {
+      "name": "Secondary / Green / G10",
+      "values": {
+        "hex": "#D9F2CE",
+        "hexa": "#D9F2CEff",
+        "rgb": "rgb(217, 242, 206)",
+        "rgba": "rgba(217, 242, 206, 1)",
+        "hsl": "hsl(102, 58, 88)",
+        "hsla": "hsl(102, 58, 88, 1)",
+        "alpha": 1
+      }
+    },
+    {
+      "name": "Secondary / Green / G30",
+      "values": {
+        "hex": "#84BA73",
+        "hexa": "#84BA73ff",
+        "rgb": "rgb(132, 186, 115)",
+        "rgba": "rgba(132, 186, 115, 1)",
+        "hsl": "hsl(106, 34, 59)",
+        "hsla": "hsl(106, 34, 59, 1)",
+        "alpha": 1
+      }
+    },
+    {
+      "name": "Secondary / Green / G40",
+      "values": {
+        "hex": "#397A39",
+        "hexa": "#397A39ff",
+        "rgb": "rgb(57, 122, 57)",
+        "rgba": "rgba(57, 122, 57, 1)",
+        "hsl": "hsl(120, 36, 35)",
+        "hsla": "hsl(120, 36, 35, 1)",
+        "alpha": 1
+      }
+    },
+    {
+      "name": "Secondary / Orange / O10",
+      "values": {
+        "hex": "#FFE0C3",
+        "hexa": "#FFE0C3ff",
+        "rgb": "rgb(255, 224, 195)",
+        "rgba": "rgba(255, 224, 195, 1)",
+        "hsl": "hsl(29, 100, 88)",
+        "hsla": "hsl(29, 100, 88, 1)",
+        "alpha": 1
+      }
+    },
+    {
+      "name": "Secondary/Orange/O30",
+      "values": {
+        "hex": "#FFAF64",
+        "hexa": "#FFAF64ff",
+        "rgb": "rgb(255, 175, 100)",
+        "rgba": "rgba(255, 175, 100, 1)",
+        "hsl": "hsl(29, 100, 70)",
+        "hsla": "hsl(29, 100, 70, 1)",
+        "alpha": 1
+      }
+    },
+    {
+      "name": "Secondary / Orange / O40",
+      "values": {
+        "hex": "#DF5607",
+        "hexa": "#DF5607ff",
+        "rgb": "rgb(223, 86, 7)",
+        "rgba": "rgba(223, 86, 7, 1)",
+        "hsl": "hsl(22, 94, 45)",
+        "hsla": "hsl(22, 94, 45, 1)",
+        "alpha": 1
+      }
+    },
+    {
+      "name": "Secondary / Red / R10",
+      "values": {
+        "hex": "#FFDBD9",
+        "hexa": "#FFDBD9ff",
+        "rgb": "rgb(255, 219, 217)",
+        "rgba": "rgba(255, 219, 217, 1)",
+        "hsl": "hsl(3, 100, 93)",
+        "hsla": "hsl(3, 100, 93, 1)",
+        "alpha": 1
+      }
+    },
+    {
+      "name": "Secondary / Red / R30",
+      "values": {
+        "hex": "#FF6666",
+        "hexa": "#FF6666ff",
+        "rgb": "rgb(255, 102, 102)",
+        "rgba": "rgba(255, 102, 102, 1)",
+        "hsl": "hsl(0, 100, 70)",
+        "hsla": "hsl(0, 100, 70, 1)",
+        "alpha": 1
+      }
+    },
+    {
+      "name": "Secondary / Red / R40",
+      "values": {
+        "hex": "#DE1334",
+        "hexa": "#DE1334ff",
+        "rgb": "rgb(222, 19, 52)",
+        "rgba": "rgba(222, 19, 52, 1)",
+        "hsl": "hsl(350, 84, 47)",
+        "hsla": "hsl(350, 84, 47, 1)",
+        "alpha": 1
+      }
+    },
+    {
+      "name": "Secondary / Blue / B10",
+      "values": {
+        "hex": "#E5EEF5",
+        "hexa": "#E5EEF5ff",
+        "rgb": "rgb(229, 238, 245)",
+        "rgba": "rgba(229, 238, 245, 1)",
+        "hsl": "hsl(206, 44, 93)",
+        "hsla": "hsl(206, 44, 93, 1)",
+        "alpha": 1
+      }
+    },
+    {
+      "name": "Secondary / Blue / B20",
+      "values": {
+        "hex": "#C4DFF8",
+        "hexa": "#C4DFF8ff",
+        "rgb": "rgb(196, 223, 248)",
+        "rgba": "rgba(196, 223, 248, 1)",
+        "hsl": "hsl(209, 79, 87)",
+        "hsla": "hsl(209, 79, 87, 1)",
+        "alpha": 1
+      }
+    },
+    {
+      "name": "Secondary / Blue / B30",
+      "values": {
+        "hex": "#92C3F5",
+        "hexa": "#92C3F5ff",
+        "rgb": "rgb(146, 195, 245)",
+        "rgba": "rgba(146, 195, 245, 1)",
+        "hsl": "hsl(210, 83, 77)",
+        "hsla": "hsl(210, 83, 77, 1)",
+        "alpha": 1
+      }
+    },
+    {
+      "name": "Secondary / Blue / B40",
+      "values": {
+        "hex": "#68ACF4",
+        "hexa": "#68ACF4ff",
+        "rgb": "rgb(104, 172, 244)",
+        "rgba": "rgba(104, 172, 244, 1)",
+        "hsl": "hsl(211, 86, 68)",
+        "hsla": "hsl(211, 86, 68, 1)",
+        "alpha": 1
+      }
+    },
+    {
+      "name": "Secondary / Blue / B50",
+      "values": {
+        "hex": "#4394F1",
+        "hexa": "#4394F1ff",
+        "rgb": "rgb(67, 148, 241)",
+        "rgba": "rgba(67, 148, 241, 1)",
+        "hsl": "hsl(212, 86, 60)",
+        "hsla": "hsl(212, 86, 60, 1)",
+        "alpha": 1
+      }
+    },
+    {
+      "name": "Secondary / Blue / B60",
+      "values": {
+        "hex": "#074DB6",
+        "hexa": "#074DB6ff",
+        "rgb": "rgb(7, 77, 182)",
+        "rgba": "rgba(7, 77, 182, 1)",
+        "hsl": "hsl(216, 93, 37)",
+        "hsla": "hsl(216, 93, 37, 1)",
+        "alpha": 1
+      }
+    },
+    {
+      "name": "Secondary / Blue / B70",
+      "values": {
+        "hex": "#003BA1",
+        "hexa": "#003BA1ff",
+        "rgb": "rgb(0, 59, 161)",
+        "rgba": "rgba(0, 59, 161, 1)",
+        "hsl": "hsl(218, 100, 32)",
+        "hsla": "hsl(218, 100, 32, 1)",
+        "alpha": 1
+      }
+    },
+    {
+      "name": "Secondary / Blue / B80",
+      "values": {
+        "hex": "#022F8E",
+        "hexa": "#022F8Eff",
+        "rgb": "rgb(2, 47, 142)",
+        "rgba": "rgba(2, 47, 142, 1)",
+        "hsl": "hsl(221, 97, 28)",
+        "hsla": "hsl(221, 97, 28, 1)",
+        "alpha": 1
+      }
+    },
+    {
+      "name": "Secondary / Blue / B90",
+      "values": {
+        "hex": "#001763",
+        "hexa": "#001763ff",
+        "rgb": "rgb(0, 23, 99)",
+        "rgba": "rgba(0, 23, 99, 1)",
+        "hsl": "hsl(226, 100, 19)",
+        "hsla": "hsl(226, 100, 19, 1)",
+        "alpha": 1
+      }
+    },
+    {
+      "name": "Neutral / N10",
+      "values": {
+        "hex": "#F7F7F7",
+        "hexa": "#F7F7F7ff",
+        "rgb": "rgb(247, 247, 247)",
+        "rgba": "rgba(247, 247, 247, 1)",
+        "hsl": "hsl(0, 0, 97)",
+        "hsla": "hsl(0, 0, 97, 1)",
+        "alpha": 1
+      }
+    },
+    {
+      "name": "Neutral / N20",
+      "values": {
+        "hex": "#EBEBED",
+        "hexa": "#EBEBEDff",
+        "rgb": "rgb(235, 235, 237)",
+        "rgba": "rgba(235, 235, 237, 1)",
+        "hsl": "hsl(240, 5, 93)",
+        "hsla": "hsl(240, 5, 93, 1)",
+        "alpha": 1
+      }
+    },
+    {
+      "name": "Neutral / N30",
+      "values": {
+        "hex": "#DBDCE1",
+        "hexa": "#DBDCE1ff",
+        "rgb": "rgb(219, 220, 225)",
+        "rgba": "rgba(219, 220, 225, 1)",
+        "hsl": "hsl(230, 9, 87)",
+        "hsla": "hsl(230, 9, 87, 1)",
+        "alpha": 1
+      }
+    },
+    {
+      "name": "Neutral / N40",
+      "values": {
+        "hex": "#C6C7CE",
+        "hexa": "#C6C7CEff",
+        "rgb": "rgb(198, 199, 206)",
+        "rgba": "rgba(198, 199, 206, 1)",
+        "hsl": "hsl(233, 8, 79)",
+        "hsla": "hsl(233, 8, 79, 1)",
+        "alpha": 1
+      }
+    },
+    {
+      "name": "Neutral / N50",
+      "values": {
+        "hex": "#B5B5C0",
+        "hexa": "#B5B5C0ff",
+        "rgb": "rgb(181, 181, 192)",
+        "rgba": "rgba(181, 181, 192, 1)",
+        "hsl": "hsl(240, 8, 73)",
+        "hsla": "hsl(240, 8, 73, 1)",
+        "alpha": 1
+      }
+    },
+    {
+      "name": "Neutral / N60",
+      "values": {
+        "hex": "#868593",
+        "hexa": "#868593ff",
+        "rgb": "rgb(134, 133, 147)",
+        "rgba": "rgba(134, 133, 147, 1)",
+        "hsl": "hsl(244, 6, 55)",
+        "hsla": "hsl(244, 6, 55, 1)",
+        "alpha": 1
+      }
+    },
+    {
+      "name": "Neutral / N70",
+      "values": {
+        "hex": "#565667",
+        "hexa": "#565667ff",
+        "rgb": "rgb(86, 86, 103)",
+        "rgba": "rgba(86, 86, 103, 1)",
+        "hsl": "hsl(240, 9, 37)",
+        "hsla": "hsl(240, 9, 37, 1)",
+        "alpha": 1
+      }
+    },
+    {
+      "name": "Neutral / N80",
+      "values": {
+        "hex": "#2F2E3B",
+        "hexa": "#2F2E3Bff",
+        "rgb": "rgb(47, 46, 59)",
+        "rgba": "rgba(47, 46, 59, 1)",
+        "hsl": "hsl(245, 12, 21)",
+        "hsla": "hsl(245, 12, 21, 1)",
+        "alpha": 1
+      }
+    },
+    {
+      "name": "Neutral/N90",
+      "values": {
+        "hex": "#1B1A25",
+        "hexa": "#1B1A25ff",
+        "rgb": "rgb(27, 26, 37)",
+        "rgba": "rgba(27, 26, 37, 1)",
+        "hsl": "hsl(245, 17, 12)",
+        "hsla": "hsl(245, 17, 12, 1)",
+        "alpha": 1
+      }
+    }
+  ]
+}

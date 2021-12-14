@@ -1,0 +1,31 @@
+query GetHomePage {
+  homepage {
+    _seoMetaTags {
+      ...metaTagsFragment
+    }
+    mainHeading
+    heroParagraph {
+      value
+    }
+    serviceCards {
+      title
+      description
+      image {
+        responsiveImage(
+          imgixParams: { fit: crop, w: 400, h: 240, auto: format }
+        ) {
+          ...responsiveImageFragment
+        }
+      }
+      linkText
+      linkTarget {
+        pageSlug
+      }
+    }
+    contentSections {
+      ... on FeatureParagraphImageRecord {
+        ...featureParagraphImageRecordFragment
+      }
+    }
+  }
+}

@@ -1,0 +1,40 @@
+query GetLegalPage($legalPageSlug: String!) {
+  legalPage(filter: { legalPageSlug: { eq: $legalPageSlug } }) {
+    id
+    legalPageSlug
+    title
+    _seoMetaTags {
+      ...metaTagsFragment
+    }
+    summary {
+      value
+    }
+    legalText {
+      value
+      links {
+        __typename
+        ... on ContactPageRecord {
+          id
+          __typename
+          pageSlug
+        }
+        ... on LegalPageRecord {
+          id
+          __typename
+          legalPageSlug
+        }
+      }
+    }
+  }
+}
+
+query GetLegalPages {
+  allLegalPages {
+    id
+    legalPageSlug
+    title
+    summary {
+      value
+    }
+  }
+}

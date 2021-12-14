@@ -1,0 +1,34 @@
+query GetAboutUs {
+  aboutUsPage {
+    _seoMetaTags {
+      ...metaTagsFragment
+    }
+    mainHeading
+    heroParagraph {
+      value
+    }
+    pageContent {
+      value
+      blocks {
+        ... on CtaRecord {
+          ...ctaRecordFragment
+        }
+        ... on FeatureParagraphImageRecord {
+          ...featureParagraphImageRecordFragment
+        }
+        ... on FullWidthCalloutRecord {
+          ...fullWidthCalloutRecordFragment
+        }
+        ... on SideBySidePRecord {
+          ...sideBySidePRecordFragment
+        }
+        ... on StaffProfileCollectionRecord {
+          ...staffProfileCollectionRecordFragment
+        }
+        ... on TwoColumnListRecord {
+          ...twoColumnListRecordFragment
+        }
+      }
+    }
+  }
+}

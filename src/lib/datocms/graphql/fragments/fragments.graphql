@@ -1,0 +1,103 @@
+fragment responsiveImageFragment on ResponsiveImage {
+  srcSet
+  webpSrcSet
+  sizes
+  src
+  width
+  height
+  aspectRatio
+  alt
+  title
+  base64
+}
+
+fragment metaTagsFragment on Tag {
+  attributes
+  content
+  tag
+}
+
+fragment featureParagraphImageRecordFragment on FeatureParagraphImageRecord {
+  __typename
+  id
+  heading
+  cropImage
+  imagePosition
+  paragraph {
+    value
+  }
+  image {
+    responsiveImage(imgixParams: { fit: crop, w: 480, h: 480, auto: format }) {
+      ...responsiveImageFragment
+    }
+  }
+}
+
+fragment ctaRecordFragment on CtaRecord {
+  __typename
+  id
+  heading
+  subtext
+}
+
+fragment fullWidthCalloutRecordFragment on FullWidthCalloutRecord {
+  id
+  __typename
+  subheading
+  callout {
+    value
+  }
+}
+
+fragment sideBySidePRecordFragment on SideBySidePRecord {
+  id
+  __typename
+  leftHeading
+  leftParagraph {
+    value
+  }
+  rightHeading
+  rightParagraph {
+    value
+  }
+}
+
+fragment staffProfileCollectionRecordFragment on StaffProfileCollectionRecord {
+  id
+  __typename
+  profiles {
+    id
+    name
+    jobTitle
+    position
+    biography {
+      value
+    }
+    avatar {
+      responsiveImage(
+        imgixParams: { fit: fill, w: 288, h: 288, auto: format }
+      ) {
+        ...responsiveImageFragment
+      }
+    }
+  }
+}
+
+fragment twoColumnListRecordFragment on TwoColumnListRecord {
+  __typename
+  id
+  serviceList
+}
+
+fragment testimonialRecordFragment on TestimonialRecord {
+  __typename
+  id
+  name
+  testimonial
+  positionCompany
+  photo {
+    responsiveImage(imgixParams: { fit: crop, w: 240, h: 240, auto: format }) {
+      ...responsiveImageFragment
+    }
+  }
+}

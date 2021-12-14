@@ -1,0 +1,14 @@
+query GetContactPage {
+  contactPage {
+    id
+    _seoMetaTags {
+      ...metaTagsFragment
+    }
+    pageSlug
+    title
+    location {
+      latitude
+      longitude
+    }
+  }
+}

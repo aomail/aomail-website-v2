@@ -1,0 +1,49 @@
+query getBlogPostSummaries {
+  allBlogArticles {
+    id
+    slug
+    title
+    mainImage {
+      responsiveImage(
+        imgixParams: { fit: crop, w: 336, h: 192, auto: format }
+      ) {
+        ...responsiveImageFragment
+      }
+    }
+    summary {
+      value
+    }
+  }
+}
+
+query getBlogPost($pageSlug: String!) {
+  blogArticle(filter: { slug: { eq: $pageSlug } }) {
+    id
+    slug
+    title
+    mainImage {
+      responsiveImage(
+        imgixParams: { fit: crop, w: 800, h: 400, auto: format }
+      ) {
+        ...responsiveImageFragment
+      }
+    }
+    _seoMetaTags {
+      ...metaTagsFragment
+    }
+    updatedAt
+    article {
+      value
+    }
+    summary {
+      value
+    }
+  }
+}
+
+query getBlogPostPaths {
+  allBlogArticles {
+    id
+    slug
+  }
+}
